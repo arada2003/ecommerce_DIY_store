@@ -71,7 +71,7 @@ docker-compose up -d
 "proxy": "http://localhost:8080"
 ```
 - Run Server
-- ```bash
+```bash
 npm start
 ```
 - จะเปิด localhost:3000 สำหรับ react
